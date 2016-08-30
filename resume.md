@@ -14,6 +14,7 @@ I am a passionate software engineer with 13 years experience writing both public
 ## Skillset
 
 | Languages               | Frameworks                  | Libraries and Tools | Databases |
+|-------------------------|-----------------------------|---------------------|-----------|
 | Java, Groovy and Scala  | Spring, String Boot, Grails | Angular Material    | MySQL, RDS|
 | Javascript              | AngularJS                   | Akka                | MongoDB   |
 | PHP                     | Symfony                     | Bootstrap           | Oracle    |
