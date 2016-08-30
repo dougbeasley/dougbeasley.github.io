@@ -1,45 +1,48 @@
 
 # Douglas C. Beasley
+
 ```
-463 Roosevelt Ave
-Pasadena, CA 91107
+19725 Crystal Hills Dr.
+Porter Ranch, CA 91326
 805.341.0832
 beasley.doug@gmail.com
 ```
 
-## About
-There is no noise.  Things are clearer now.  I write software.
+## Summary
+I am a passionate software engineer with 13 years experience writing both public facing and internal applications.  The majority of my experience is Java backend systems, but I consider myself a full stack engineer.  I have a specific interest in high-performance real-time applications and have some early stage development with functional reactive programming.
 
-## Tech Stacks
+## Technical Summary
 
-### Java
-- the bouncy stuff
-- some of the functional reactive stuff a la (scala, akka, play, ...)
+### Languages
+- Java, Groovy and Scala
+- PHP
+- Bash
 
-### PHP
-- Symfony 2
-- Doctrine
+### Frameworks
+- Spring, String Boot, Grails
+- AngularJS
+- Bootstrap
+- Symfony
+
+### Libraries and Tools 
+- Angular Material
+- Akka
 
 ### Databases
-- MySQL
+- MySQL, RDS
 - MongoDB
 - Oracle
 
-### Hobby stuff
-- Anything with a datasheet
-- functional reactive programming
-- high though put, low latency, real time, ballz to the wall, rip it, <aggressive cliche>
-
 ## Work Experience & Accomplishments
 
-### VP Engineering April 2014 - Present Causecast, Burbank, CA
+### VP Engineering April 2014 - Present [Causecast, Burbank, CA]
 
 - donation engine
 - sprint design, planning
 - code reviews
 - product council
 
-### Software Engineer/Co-Founder March 2013 – April 2014 Nestivity Inc, Los Angeles, CA
+### Software Engineer/Co-Founder March 2013 – April 2014 [Nestivity Inc, Los Angeles, CA]
 
 - Co-Creator of the Nestivity product platform.
 - Customer facing web application
@@ -55,13 +58,13 @@ There is no noise.  Things are clearer now.  I write software.
 - Bootstrap and jQuery used for UI/UX
 - Implemented an automated build and test workflow with Maven, Jetty and Jenkins.
 
-### Software Engineer June 2012 – March 2013 Passenger Inc, Los Angeles, CA
+### Software Engineer June 2012 – March 2013 [Passenger Inc, Los Angeles, CA]
 - Completed work on the first customer release of the Android mobile offering, supporting communication with the existing platform API.
 - Brought expertise in re-architecting the current platform.
 - Collaborated with development team members on the design and implementation to overhaul the current platform.
 - Supported existing efforts with the current platform.
 
-### Software Engineer 2003 – 2012 Skyworks, Inc., Newbury Park, CA
+### Software Engineer 2003 – 2012 [Skyworks, Inc., Newbury Park, CA]
 - Developed and maintained software applications such as the MoveMeter, Repair Parts Database, and Utilization applications; that were used by internal manufacturing and engineering departments.
 - Converted source code control from MS Visual SourceSafe to CVS.
 - Optimized the existing Engineering Database to achieve a 25% increase in capacity, and implemented automated data loading and monitoring.
