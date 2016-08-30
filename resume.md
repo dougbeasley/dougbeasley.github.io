@@ -1,12 +1,15 @@
 
 # Douglas C. Beasley
 
-```
-19725 Crystal Hills Dr.
-Porter Ranch, CA 91326
-805.341.0832
-beasley.doug@gmail.com
-```
+
+> 19725 Crystal Hills Dr.
+
+> Porter Ranch, CA 91326
+
+> 805.341.0832
+
+> beasley.doug@gmail.com
+
 
 ## Summary
 I am a passionate software engineer with 13 years experience writing both public facing and internal applications.  The majority of my experience is Java backend systems, but I consider myself a full stack engineer.  I have a specific interest in high-performance real-time applications and have some early stage development with functional reactive programming.
@@ -20,17 +23,17 @@ I am a passionate software engineer with 13 years experience writing both public
 | PHP                     | Symfony                     | Bootstrap           | Oracle    |
 
 
-
 ## Work Experience & Accomplishments
 
-### VP Engineering April 2014 - Present [Causecast, Burbank, CA]
-
+### Vice President Engineering at Causecast
+###### Burbank, CA [April 2014 - Present]
 - donation engine
 - sprint design, planning
 - code reviews
 - product council
 
-### Software Engineer/Co-Founder March 2013 – April 2014 [Nestivity Inc, Los Angeles, CA]
+### Software Engineer/Co-Founder at Nestivity
+###### Los Angeles, CA [March 2013 – April 2014]
 
 - Co-Creator of the Nestivity product platform.
 - Customer facing web application
@@ -46,13 +49,15 @@ I am a passionate software engineer with 13 years experience writing both public
 - Bootstrap and jQuery used for UI/UX
 - Implemented an automated build and test workflow with Maven, Jetty and Jenkins.
 
-### Software Engineer June 2012 – March 2013 [Passenger Inc, Los Angeles, CA]
+### Senior Software Engineer at Passenger
+###### Los Angeles, CA [June 2012 – March 2013 ]
 - Completed work on the first customer release of the Android mobile offering, supporting communication with the existing platform API.
 - Brought expertise in re-architecting the current platform.
 - Collaborated with development team members on the design and implementation to overhaul the current platform.
 - Supported existing efforts with the current platform.
 
-### Software Engineer 2003 – 2012 [Skyworks, Inc., Newbury Park, CA]
+### Senior Software Engineer at Skyworks
+###### Newbury Park, CA [2003 – 2012]
 - Developed and maintained software applications such as the MoveMeter, Repair Parts Database, and Utilization applications; that were used by internal manufacturing and engineering departments.
 - Converted source code control from MS Visual SourceSafe to CVS.
 - Optimized the existing Engineering Database to achieve a 25% increase in capacity, and implemented automated data loading and monitoring.
