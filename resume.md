@@ -14,7 +14,7 @@
 ## Summary
 I am a passionate software engineer with 13 years experience writing both public facing and internal applications.  The majority of my experience is Java backend systems, but I consider myself a full stack engineer.  I have a specific interest in high-performance real-time applications and have some early stage development with functional reactive programming.
 
-## Skillset
+## Technical
 
 | Languages               | Frameworks                  | Libraries and Tools | Databases |
 |-------------------------|-----------------------------|---------------------|-----------|
