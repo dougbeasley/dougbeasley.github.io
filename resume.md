@@ -28,11 +28,12 @@ I am a passionate software engineer with 13 years experience writing both public
 ### Vice President Engineering at Causecast
 ###### Burbank, CA [April 2014 - Present]
 
-- Created the donation engine with Groovy and Grails to support payment processing and funds disbursement
-- Developed hybrid sprint planning to accomodate 
-- Instituted a formal code review workflow
+- Authored the Donation Engine with Groovy and Grails to support payment processing and funds disbursement
+- Developed a functional donation receipt processing services with Akka and Scala, tested to 100 cluster compute nodes.
+- Developed a hybrid sprint planning model to accommodate lean product specifications
+- Instituted a formal code review process
 - Member of the Product Council, involved in the road map and product planning
-- Supported CIP platform with PHP and the Symfony2 framework
+- Supported the Client Impact Platform with PHP and the Symfony2 framework
 
 ### Software Engineer/Co-Founder at Nestivity
 ###### Los Angeles, CA [March 2013 – April 2014]
