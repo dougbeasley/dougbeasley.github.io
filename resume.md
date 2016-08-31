@@ -25,21 +25,20 @@ I am a passionate software engineer with 13 years experience writing both public
 
 ## Work Experience & Accomplishments
 
-### Vice President Engineering at Causecast
+#### Vice President of Engineering at Causecast
 ###### Burbank, CA [April 2014 - Present]
 
 - Authored the Donation Engine with Groovy and Grails to support payment processing and funds disbursement
-- Developed a functional donation receipt processing services with Akka and Scala, tested to 100 cluster compute nodes.
+- Developed a functional donation receipt processing service with Akka and Scala, tested scalability to 100 cluster nodes.
 - Developed a hybrid sprint planning model to accommodate lean product specifications
 - Instituted a formal code review process
 - Member of the Product Council, involved in the road map and product planning
 - Supported the Client Impact Platform with PHP and the Symfony2 framework
 
-### Software Engineer/Co-Founder at Nestivity
+#### Software Engineer/Co-Founder at Nestivity
 ###### Los Angeles, CA [March 2013 – April 2014]
 
 - Co-Creator of the Nestivity product platform.
-- Customer facing web application
 - Utilizes the OAuth1 standard for pure social (Twitter) authentication
 - MongoDB persistence with Spring Data
 - Hazelcast for caching and inter-node communication
@@ -47,19 +46,19 @@ I am a passionate software engineer with 13 years experience writing both public
 - jQuery and CSS3 used for UI/UX
 - Sole creator of the Muncher platform.
 - Muncher is responsible for handling and processing a syndicated Twitter firehose in conjunction with the Twitter public API.  Currently storing 25K tweets a day.
-- Hazelcast for internode and interprocess communication allowing for long polling, data deduplication, and Nestivity platform synchronization.
+- Hazelcast for internode and interprocess communication allowing for long polling, data de-duplication, and Nestivity platform synchronization.
 - Thymeleaf with Spring MVC used for presentation.
 - Bootstrap and jQuery used for UI/UX
 - Implemented an automated build and test workflow with Maven, Jetty and Jenkins.
 
-### Senior Software Engineer at Passenger
+#### Senior Software Engineer at Passenger
 ###### Los Angeles, CA [June 2012 – March 2013 ]
 - Completed work on the first customer release of the Android mobile offering, supporting communication with the existing platform API.
 - Brought expertise in re-architecting the current platform.
 - Collaborated with development team members on the design and implementation to overhaul the current platform.
 - Supported existing efforts with the current platform.
 
-### Senior Software Engineer at Skyworks
+#### Senior Software Engineer at Skyworks
 ###### Newbury Park, CA [2003 – 2012]
 - Developed and maintained software applications such as the MoveMeter, Repair Parts Database, and Utilization applications; that were used by internal manufacturing and engineering departments.
 - Converted source code control from MS Visual SourceSafe to CVS.
