@@ -2,17 +2,17 @@
 # Douglas C. Beasley
 
 
-> 19725 Crystal Hills Dr.
+> 19725 Crystal Hills Dr.  
+> Porter Ranch, CA 91326  
+> phone:    805.341.0832  
 
-> Porter Ranch, CA 91326
-
-> 805.341.0832
-
-> beasley.doug@gmail.com
+> email:    beasley.doug@gmail.com  
+> github:   github.com/dougbeasley  
+> linkedin: linkedin.com/in/douglascbeasley
 
 
 ## Summary
-I am a passionate software engineer with 13 years experience writing both public facing and internal applications.  The majority of my experience is Java backend systems, but I consider myself a full stack engineer.  I have a specific interest in high-performance real-time applications and have some early stage development with functional reactive programming.
+I am a passionate software engineer with 13 years experience writing both public facing and internal applications.  The majority of my experience is Java back-end systems, but I do have some experienced in front-end development.  I have a specific interest in high-performance real-time applications and have some early stage development with functional reactive programming.
 
 ## Technical
 
