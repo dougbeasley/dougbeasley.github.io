@@ -10,7 +10,7 @@ github:   http://github.com/dougbeasley
 linkedin: http://linkedin.com/in/douglascbeasley
 
 ## Summary
-I am a resourceful and passionate software engineer of 13 years.  I have experience writing both public and internal web applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  My prefered architecture has evolved over the years, and most recently makes use of single page web applications backs by RESTfull APIs and or microservices.  I have a specific interest in high-performance real-time applications and have some early stage development with functional reactive programming using Scala and Akka.
+I am a resourceful and passionate software engineer of 13 years.  I have experience writing both public and internal web applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  My prefered architecture has evolved over the years, and most recently makes use of single page web applications backed by RESTfull APIs and or microservices.  I have a specific interest in high-performance, real-time applications and have some early stage development with functional reactive programming using Scala and Akka.
 
 ## Technical
 
@@ -26,12 +26,12 @@ I am a resourceful and passionate software engineer of 13 years.  I have experie
 #### Vice President of Engineering at Causecast
 ###### Burbank, CA [April 2014 - Present]
 
-- Managed the Engineering, QA and Product functional areas
-- Authored the Donation Engine with Groovy and Grails responsible for payment processing and funds disbursement of over $3M dollars anually
+- Managing the Engineering, Product and QA functional areas
+- Authored the Donation Engine with Groovy and Grails which is responsible for payment processing and funds disbursement of over $3M dollars anually
 - Developed a functional donation receipt processing service with Akka and Scala, tested scalability to 100 cluster nodes.
 - Developed a hybrid sprint planning model to accommodate lean product specifications
 - Instituted a formal code review process
-- Member of the Product Council, involved in the road map and product planning
+- Member of the Product Council, involved in roadmap and product planning
 - Supported the Client Impact Platform with PHP and the Symfony2 framework
 
 #### Software Engineer/Co-Founder at Nestivity
@@ -43,8 +43,8 @@ I am a resourceful and passionate software engineer of 13 years.  I have experie
 - Hazelcast for caching and inter-node communication
 - JSP, Tiles, and Spring MVC for presentation
 - jQuery and CSS3 used for UI/UX
-- Sole creator of the Muncher platform.
-- Muncher is responsible for handling and processing a syndicated Twitter firehose in conjunction with the Twitter public API.  Currently storing 25K tweets a day.
+- Sole author of the Muncher platform
+- Muncher is responsible for handling and processing a syndicated Twitter firehose in conjunction with the Twitter public API.  Currently storing 25K tweets a day
 - Hazelcast for internode and interprocess communication allowing for long polling, data de-duplication, and Nestivity platform synchronization.
 - Thymeleaf with Spring MVC used for presentation.
 - Bootstrap and jQuery used for UI/UX
