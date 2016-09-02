@@ -6,7 +6,7 @@
   <meta name="description" content="">
   <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
 
-  <title>Angular Material - Starter App</title>
+  <title>Douglas C. Beasley</title>
   <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:400,700'>
   <link rel="stylesheet" href="./jspm_packages/github/angular/bower-material@master/angular-material.css"/>
   <link rel="stylesheet" href="./assets/app.css"/>
@@ -17,69 +17,101 @@
   <!-- Container #2 -->
   <div flex layout="row">
 
-    <!-- Container #3 -->
-    <md-sidenav class="md-whiteframe-4dp" md-is-locked-open="$mdMedia('gt-sm')"
-    md-component-id="left" ng-click="app.toggleList()">
+  <!-- Container #3 -->
+  <md-sidenav class="md-whiteframe-4dp" md-is-locked-open="$mdMedia('gt-xs')"
+  md-component-id="left" ng-click="app.toggleList()" layout="column" layout-align="start center">
 
     <h1>Doug Beasley</h1>
     <h4>Software Engineer</h4>
     <div id="avatar"></div>
 
+    <div layout-padding>
+      <h2>Summary</h2>
+      <p>
+        I am a passionate software engineer with 13 years experience writing both public facing and internal applications.
+        The majority of my experience is Java backend systems, but I consider myself a full stack engineer.
+        I have a specific interest in high-performance real-time applications and have some early stage development with functional reactive programming.
+      </p>
+    </div>
   </md-sidenav>
 
   <!-- Container #4 -->
-  <md-content flex id="content" layout="column" layout-padding>
+  <div flex id="content" layout="column" layout-padding>
 
-    <h2>Summary</h2>
-    <p>
-      I am a passionate software engineer with 13 years experience writing both public facing and internal applications.
-      The majority of my experience is Java backend systems, but I consider myself a full stack engineer.
-      I have a specific interest in high-performance real-time applications and have some early stage development with functional reactive programming.
-    </p>
 
-    <h2>Technical</h2>
-    <md-card>
-      <md-card-title>
-        <md-card-title-text>
-          <span class="md-headline">Technical</span>
-        </md-card-title-text>
-      </md-card-title>
-      <md-card-content>
-        <md-list>
+    <div>
+      <h2>Technical</h2>
+      <div layout="row" md-whiteframe="1">
+        <md-list flex="50">
+          <md-subheader class="md-no-sticky">Languages</md-subheader>
           <md-list-item class="md-2-line">
             <div class="md-list-item-text" layout="column">
               <h4>Java</h4>
               <md-progress-linear md-mode="determinate" value="80"></md-progress-linear>
             </div>
           </md-list-item>
+          <md-list-item class="md-2-line">
+            <div class="md-list-item-text" layout="column">
+              <h4>Javascript</h4>
+              <md-progress-linear md-mode="determinate" value="80"></md-progress-linear>
+            </div>
+          </md-list-item>
+          <md-list-item class="md-2-line">
+            <div class="md-list-item-text" layout="column">
+              <h4>PHP</h4>
+              <md-progress-linear md-mode="determinate" value="80"></md-progress-linear>
+            </div>
+          </md-list-item>
         </md-list>
-      </md-card-content>
-    </md-card>
+        <md-divider></md-divider>
+        <md-list flex="50">
+          <md-subheader class="md-no-sticky">Frameworks and Libraries</md-subheader>
+          <md-list-item class="md-2-line">
+            <div class="md-list-item-text" layout="column">
+              <h4>Spring</h4>
+              <md-progress-linear md-mode="determinate" value="80"></md-progress-linear>
+            </div>
+          </md-list-item>
+          <md-list-item class="md-2-line">
+            <div class="md-list-item-text" layout="column">
+              <h4>AngularJS</h4>
+              <md-progress-linear md-mode="determinate" value="80"></md-progress-linear>
+            </div>
+          </md-list-item>
+          <md-list-item class="md-2-line">
+            <div class="md-list-item-text" layout="column">
+              <h4>Akka</h4>
+              <md-progress-linear md-mode="determinate" value="80"></md-progress-linear>
+            </div>
+          </md-list-item>
+        </md-list>
+      </div>
+    </div>
 
-    <h2>Experience</h2>
-    <md-card>
-      <md-card-header>
-        <md-card-header-text>
-          <span class="md-title">Causecast</span>
-          <span class="md-subhead">April 2014 - Present</span>
-        </md-card-header-text>
-      </md-card-header>
-      <md-card-title>
-        <md-card-title-text>
-          <span class="md-headline">VP of Engineering</span>
-        </md-card-title-text>
-      </md-card-title>
-      <md-card-content>
-        <ul>
-          <li>Authored the Donation Engine with Groovy and Grails to support payment processing and funds disbursement</li>
-          <li>Developed a functional donation receipt processing service with Akka and Scala, tested scalability to 100 cluster nodes</li>
-          <li>Developed a hybrid sprint planning model to accommodate lean product specifications</li>
-          <li>Supported the Client Impact Platform with PHP and the Symfony2 framework</li>
-        </ul>
-      </md-card-content>
-    </md-card>
+    <div>
+      <h2>Experience</h2>
+      <div md-whiteframe="1">
+        <md-toolbar>
+          <div class="md-toolbar-tools">
+            <h4 class="md-headline">Causecast</h4>
+            <span flex></span>
+            <h6 class="md-subhead">April 2014 - Present</h6>
+          </div>
+        </md-toolbar>
+        <div layout="column" layout-padding>
+          <span>Authored the Donation Engine with Groovy and Grails to support payment processing and funds disbursement</span>
+          <span>Developed a functional donation receipt processing service with Akka and Scala, tested scalability to 100 cluster nodes</span>
+          <span>Developed a hybrid sprint planning model to accommodate lean product specifications</span>
+          <span>Supported the Client Impact Platform with PHP and the Symfony2 framework</span>
+        </div>
+      </div>
+    </div>
 
-  </md-content>
+    <div>
+      <h2>Education</h2>
+    </div>
+
+  </div>
 
 </div>
 
