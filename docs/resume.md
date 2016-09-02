@@ -1,14 +1,13 @@
 
 # Douglas C. Beasley
 
-
 > 19725 Crystal Hills Dr.  
 > Porter Ranch, CA 91326  
 > phone:    805.341.0832  
 
 > email:    beasley.doug@gmail.com  
-> github:   github.com/dougbeasley  
-> linkedin: linkedin.com/in/douglascbeasley
+> github:   http://github.com/dougbeasley  
+> linkedin: http://linkedin.com/in/douglascbeasley
 
 
 ## Summary
