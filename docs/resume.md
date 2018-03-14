@@ -10,21 +10,29 @@ github:   http://github.com/dougbeasley
 linkedin: http://linkedin.com/in/douglascbeasley
 
 ## Summary
-I am a resourceful and passionate software engineer of 13 years.  I have experience writing both public and internal web applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  My prefered architecture has evolved over the years, and most recently makes use of single page web applications backed by RESTfull APIs and or microservices.  I have a specific interest in high-performance, real-time applications and have some early stage development with functional reactive programming using Scala and Akka.
+I am a resourceful and passionate software engineer of 13 years.  I have experience writing both public and internal web applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  My prefered architecture has evolved over the years, and most recently makes use of single page web applications backed by RESTfull APIs and or microservices.  I have a specific interest in high-performance, real-time applications and have production development with functional reactive programming using Scala, Akka and Reactor.
 
 ## Technical
 
-| Languages               | Frameworks                  | Libraries and Tools | Databases |
+| Languages               | Frameworks                  | Libraries and Tools | Datastores |
 |-------------------------|-----------------------------|---------------------|-----------|
-| Java, Groovy and Scala  | Spring, String Boot, Grails | Angular Material    | MySQL, RDS|
-| Javascript              | AngularJS                   | Akka                | MongoDB   |
-| PHP                     | Symfony                     | Bootstrap           | Oracle    |
+| Java, Groovy and Scala  | Spring, String Boot         | Angular Material    | MySQL, Postgres, Oracle |
+| Javascript              | AngularJS                   | Akka, Reactor       | MongoDB  |
+| PHP                     | Symfony                     | Bootstrap           | Redis, ElasticSearch    |
 
 
 ## Work Experience & Accomplishments
 
+#### Lead Platform Engineer at Redventures (Wallaby)
+###### Pasadena, CA [November 2016 - Present]
+
+- Reauthored the reward calculation algorithm
+- Containerized the legacy application platform and implemented a new micro-service platform in ECS
+- Authored the functioan test suite using Spring Shell to support a comprehensive testing framework for QA
+- Advising on platform architecture, software implementations and SDLC
+
 #### Vice President of Engineering at Causecast
-###### Burbank, CA [April 2014 - Present]
+###### Burbank, CA [April 2014 - November 2016]
 
 - Managing the Engineering, Product and QA functional areas
 - Authored the Donation Engine with Groovy and Grails which is responsible for payment processing and funds disbursement of over $3M dollars anually
