@@ -28,7 +28,7 @@ I am a resourceful and passionate software engineer of 13 years.  I have experie
 
 - Reauthored the reward calculation algorithm
 - Containerized the legacy application platform and implemented a new micro-service platform in ECS
-- Authored the functioan test suite using Spring Shell to support a comprehensive testing framework for QA
+- Authored the functional test suite with fixture generation using Spring Shell to support a comprehensive testing framework for QA
 - Advising on platform architecture, software implementations and SDLC
 
 #### Vice President of Engineering at Causecast
