@@ -81,9 +81,10 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 - Kinesis, Kafka
 - Neo4J
 
-### Cloud Platforms
+### Cloud and Platform
 - AWS 
 - GCP
+- Terraform (and other Hashicorp products)
 
 
 ## Education, Training, & Awards
