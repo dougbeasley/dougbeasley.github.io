@@ -9,7 +9,7 @@ github:   http://github.com/dougbeasley
 linkedin: http://linkedin.com/in/douglascbeasley
 
 ## Summary
-I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal service oriented applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  I've had the opportunity to work closely with data engineer and data science teams, and have a working knowledge of data pipelines, machine learning and big data.  I have a specific interest in high-performance, real-time applications and have authored production applications using functional reactive programming with Scala, Akka and Reactor.
+I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal service oriented applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  I've had the opportunity to work closely with data engineering and data science teams, and have a working knowledge of data pipelines, machine learning and big data.  I have a specific interest in high-performance, real-time applications and have authored production applications using functional reactive programming with Scala, Akka and Reactor.
 
 ## Work Experience & Accomplishments
 
