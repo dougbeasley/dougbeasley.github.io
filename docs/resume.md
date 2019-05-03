@@ -10,23 +10,38 @@ github:   http://github.com/dougbeasley
 linkedin: http://linkedin.com/in/douglascbeasley
 
 ## Summary
-I am a resourceful and passionate software engineer of 13 years.  I have experience writing both public and internal web applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  My prefered architecture has evolved over the years, and most recently makes use of single page web applications backed by RESTfull APIs and or microservices.  I have a specific interest in high-performance, real-time applications and have production development with functional reactive programming using Scala, Akka and Reactor.
+I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal web applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  My prefered architecture has evolved over the years, and most recently makes use of single page web applications backed by GraphQL, RESTfull APIs served by microservices.  I have a specific interest in high-performance, real-time applications and have production development with functional reactive programming using Scala, Akka and Reactor.
 
-## Technical
+## Technical Compentencies
 
-| Languages               | Frameworks                  | Libraries and Tools | Datastores |
-|-------------------------|-----------------------------|---------------------|-----------|
-| Java, Groovy and Scala  | Spring, String Boot         | Angular Material    | MySQL, Postgres, Oracle |
-| Javascript              | AngularJS                   | Akka, Reactor       | MongoDB  |
-| PHP                     | Symfony                     | Bootstrap           | Redis, ElasticSearch    |
+### Languages
+- Java, Scala, Groovy
+- Javascript TypeScript
 
+### Frameworks
+- Spring, Spring Boot
+- Akka
+- Angular
+
+### Datastores
+- Postgres, MySQL, Oracle
+- MongoDB, DocumentDB
+- Redis
+- Elastic Search
+- Kinesis, Kafka
+- Neo4J
+
+### Cloud Computing
+- AWS 
+- GCP
 
 ## Work Experience & Accomplishments
 
-#### Lead Platform Engineer at Redventures (Wallaby)
+#### Principle Software Engineer at Red Ventures
 ###### Pasadena, CA [November 2016 - Present]
 
-- Reauthored the reward calculation algorithm
+- Architected the Bedrock microsevice platform to service the ThePointsGuy mobile application and the Bankrate consumer experience of over 500K users
+- Reauthored the reward calculation algorithm reducing cyclomatic complexity from 214 to 10
 - Containerized the legacy application platform and implemented a new micro-service platform in ECS
 - Authored the functional test suite with fixture generation using Spring Shell to support a comprehensive testing framework for QA
 - Advising on platform architecture, software implementations and SDLC
