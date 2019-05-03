@@ -10,14 +10,14 @@ github:   http://github.com/dougbeasley
 linkedin: http://linkedin.com/in/douglascbeasley
 
 ## Summary
-I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal web applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  My prefered architecture has evolved over the years, and most recently makes use of single page web applications backed by GraphQL and or RESTfull APIs served by microservices.  I have a specific interest in high-performance, real-time applications and have production development with functional reactive programming using Scala, Akka and Reactor.
+I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal service oriented applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  I've had the opportunity to work closely with data engineer and data science teams, and have a working knowledge of data pipelines, machine learning and big data.  I have a specific interest in high-performance, real-time applications and have authored production applications using functional reactive programming with Scala, Akka and Reactor.
 
 ## Work Experience & Accomplishments
 
 #### Principle Software Engineer at Red Ventures
 ###### Pasadena, CA [November 2016 - Present]
 
-- Architected the Bedrock microsevice platform to service the ThePointsGuy mobile application, Bankrate authenticated and other RedVentures properties
+- Architected the Bedrock microsevice platform to service the ThePointsGuy mobile application, Bankrate authenticated experience and other Red Ventures properties
 - Reauthored the reward calculation algorithm reducing cyclomatic complexity from 214 to 10
 - Containerized legacy applications, moderenized test suites and applied CI/CD systems for ECS deployments
 - Authored the functional test suite with fixture generation using Spring Shell to support a comprehensive testing framework for QA
