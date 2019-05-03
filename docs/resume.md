@@ -1,4 +1,3 @@
-
 # Douglas C. Beasley
 
 19725 Crystal Hills Dr.  
@@ -14,12 +13,12 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 
 ## Work Experience & Accomplishments
 
-#### Principle Software Engineer at Red Ventures
+#### Principal Software Engineer at Red Ventures
 ###### Pasadena, CA [November 2016 - Present]
 
-- Architected the Bedrock microsevice platform to service the ThePointsGuy mobile application, Bankrate authenticated experience and other Red Ventures properties
+- Architected the Bedrock micro-sevice platform to service the ThePointsGuy mobile application, Bankrate authenticated experience and other Red Ventures properties
 - Reauthored the reward calculation algorithm reducing cyclomatic complexity from 214 to 10
-- Containerized legacy applications, moderenized test suites and applied CI/CD systems for ECS deployments
+- Containerized legacy applications, modernized test suites and applied CI/CD systems for ECS deployments
 - Authored the functional test suite with fixture generation using Spring Shell to support a comprehensive testing framework for QA
 - Worked closely with data engineering and data science teams to provide meaningful insights for machine learning and business intelligence
 - Advising on platform architecture, software implementations and SDLC
@@ -28,7 +27,7 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 ###### Burbank, CA [April 2014 - November 2016]
 
 - Managing the Engineering, Product and QA functional areas
-- Authored the Donation Engine with Groovy and Grails which is responsible for payment processing and funds disbursement of over $3M dollars anually
+- Authored the Donation Engine with Groovy and Grails which is responsible for payment processing and funds disbursement of over $3M dollars annually
 - Developed a functional donation receipt processing service with Akka and Scala, tested scalability to 100 cluster nodes.
 - Developed a hybrid sprint planning model to accommodate lean product specifications
 - Instituted a formal code review process
@@ -44,7 +43,7 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 - Hazelcast for caching and inter-node communication
 - Sole author of the Muncher platform
 - Muncher is responsible for handling and processing a syndicated Twitter firehose in conjunction with the Twitter public API.  Currently storing 25K tweets a day
-- Hazelcast for internode and interprocess communication allowing for long polling, data de-duplication, and Nestivity platform synchronization.
+- Hazelcast for internode and interprocess communication allowing for long polling, data deduplication, and Nestivity platform synchronization.
 - Implemented an automated build and test workflow with Maven, Jetty and Jenkins.
 
 #### Senior Software Engineer at Passenger
@@ -52,7 +51,7 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 - Completed work on the first customer release of the Android mobile offering, supporting communication with the existing platform API.
 - Brought expertise in re-architecting the current platform.
 - Collaborated with development team members on the design and implementation to overhaul the current platform.
-- Supported existing maintance efforts with the current platform.
+- Supported existing maintenance efforts with the current platform.
 
 #### Senior Software Engineer at Skyworks
 ###### Newbury Park, CA [2003 – 2012]
@@ -63,7 +62,7 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 - Administered 8i, 9i and 11g Oracle database instances housing approximately 40 schemas. Successfully migrated existing 8i and 9i instances to a 2 node 11g Oracle RAC environment.
 - Effectively transferred existing Unix/Linux systems to a new hardware and operating environment. The environment was constructed to maintain high availability by using various clustering and virtualization technologies. Linux Virtual Server and RedHat Cluster Suit were introduced to the native Apache and Tomcat solutions for clustering and load balancing.
 
-## Technical Compentencies
+## Technical Competencies
 
 ### Languages
 - Java, Scala, Groovy
