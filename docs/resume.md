@@ -10,40 +10,18 @@ github:   http://github.com/dougbeasley
 linkedin: http://linkedin.com/in/douglascbeasley
 
 ## Summary
-I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal web applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  My prefered architecture has evolved over the years, and most recently makes use of single page web applications backed by GraphQL, RESTfull APIs served by microservices.  I have a specific interest in high-performance, real-time applications and have production development with functional reactive programming using Scala, Akka and Reactor.
-
-## Technical Compentencies
-
-### Languages
-- Java, Scala, Groovy
-- Javascript TypeScript
-
-### Frameworks
-- Spring, Spring Boot
-- Akka
-- Angular
-
-### Datastores
-- Postgres, MySQL, Oracle
-- MongoDB, DocumentDB
-- Redis
-- Elastic Search
-- Kinesis, Kafka
-- Neo4J
-
-### Cloud Computing
-- AWS 
-- GCP
+I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal web applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  My prefered architecture has evolved over the years, and most recently makes use of single page web applications backed by GraphQL and or RESTfull APIs served by microservices.  I have a specific interest in high-performance, real-time applications and have production development with functional reactive programming using Scala, Akka and Reactor.
 
 ## Work Experience & Accomplishments
 
 #### Principle Software Engineer at Red Ventures
 ###### Pasadena, CA [November 2016 - Present]
 
-- Architected the Bedrock microsevice platform to service the ThePointsGuy mobile application and the Bankrate consumer experience of over 500K users
+- Architected the Bedrock microsevice platform to service the ThePointsGuy mobile application, Bankrate authenticated and other RedVentures properties
 - Reauthored the reward calculation algorithm reducing cyclomatic complexity from 214 to 10
-- Containerized the legacy application platform and implemented a new micro-service platform in ECS
+- Containerized legacy applications, moderenized test suites and applied CI/CD systems for ECS deployments
 - Authored the functional test suite with fixture generation using Spring Shell to support a comprehensive testing framework for QA
+- Worked closely with data engineering and data science teams to provide meaningful insights for machine learning and business intelligence
 - Advising on platform architecture, software implementations and SDLC
 
 #### Vice President of Engineering at Causecast
@@ -64,13 +42,9 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 - Utilizes the OAuth1 standard for pure social (Twitter) authentication
 - MongoDB persistence with Spring Data
 - Hazelcast for caching and inter-node communication
-- JSP, Tiles, and Spring MVC for presentation
-- jQuery and CSS3 used for UI/UX
 - Sole author of the Muncher platform
 - Muncher is responsible for handling and processing a syndicated Twitter firehose in conjunction with the Twitter public API.  Currently storing 25K tweets a day
 - Hazelcast for internode and interprocess communication allowing for long polling, data de-duplication, and Nestivity platform synchronization.
-- Thymeleaf with Spring MVC used for presentation.
-- Bootstrap and jQuery used for UI/UX
 - Implemented an automated build and test workflow with Maven, Jetty and Jenkins.
 
 #### Senior Software Engineer at Passenger
@@ -78,7 +52,7 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 - Completed work on the first customer release of the Android mobile offering, supporting communication with the existing platform API.
 - Brought expertise in re-architecting the current platform.
 - Collaborated with development team members on the design and implementation to overhaul the current platform.
-- Supported existing efforts with the current platform.
+- Supported existing maintance efforts with the current platform.
 
 #### Senior Software Engineer at Skyworks
 ###### Newbury Park, CA [2003 – 2012]
@@ -88,6 +62,30 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 - Developed and implemented multiple award winning applications such as the Equipment Management Control Panel, which was instrumental in the efforts of a factory-wide tooling conversion; as well as the Problem Lot Disposition system, which played a key role in identifying, containing, and correcting issues on the production floor.
 - Administered 8i, 9i and 11g Oracle database instances housing approximately 40 schemas. Successfully migrated existing 8i and 9i instances to a 2 node 11g Oracle RAC environment.
 - Effectively transferred existing Unix/Linux systems to a new hardware and operating environment. The environment was constructed to maintain high availability by using various clustering and virtualization technologies. Linux Virtual Server and RedHat Cluster Suit were introduced to the native Apache and Tomcat solutions for clustering and load balancing.
+
+## Technical Compentencies
+
+### Languages
+- Java, Scala, Groovy
+- Javascript TypeScript
+
+### Frameworks
+- Spring, Spring Boot
+- Akka
+- Angular
+
+### Datastores
+- Postgres, MySQL, Oracle
+- MongoDB, DocumentDB
+- Redis
+- Elastic Search
+- Kinesis, Kafka
+- Neo4J
+
+### Cloud Platforms
+- AWS 
+- GCP
+
 
 ## Education, Training, & Awards
 
