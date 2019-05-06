@@ -1,8 +1,11 @@
-- company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+- company: Red Ventures
+  link: www.redventures.com/
+  job_title: Principal Software Engineer
+  dates: November 2016 - Present
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    - Architected the Bedrock micro-sevice platform to service the ThePointsGuy mobile application and the Bankrate authenticated experience while approaching 1M users
+    - Reauthored the reward calculation algorithm reducing cyclomatic complexity from 214 to 10 and increased performance by an order of magnitude
+    - Containerized legacy applications, modernized test suites and applied CI/CD systems for ECS deployments
+    - Authored the functional test suite with fixture generation using Spring Shell to support a comprehensive testing framework for QA
+    - Worked closely with data engineering and data science teams to provide meaningful insights for machine learning and business intelligence
+    - Advising on platform architecture, software implementations and SDLC
