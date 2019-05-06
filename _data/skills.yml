@@ -1,0 +1,21 @@
+languages:
+  - Java, Scala, Groovy
+  - Javascript TypeScript
+
+frameworks:
+  - Spring, Spring Boot
+  - Akka
+  - Angular
+
+datastores:
+  - Postgres, MySQL, Oracle
+  - MongoDB, DocumentDB
+  - Redis
+  - Elastic Search
+  - Kinesis, Kafka
+  - Neo4J
+
+clouds:
+  - AWS 
+  - GCP
+  - Terraform (and other Hashicorp products)
