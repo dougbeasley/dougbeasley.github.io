@@ -63,6 +63,7 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 {{% /column %}}
 
 {{% column -span-cols-4 -p-left-3 %}}
+
 #### Languages
 * Java, Scala, Groovy
 * Javascript TypeScript
@@ -83,8 +84,7 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 #### Cloud and Platform
 * AWS 
 * GCP
-* Terraform (and other Hashicorp products)
-
+* Terraform
 
 #### Education, Training, & Awards
 {{% dd %}}
@@ -108,14 +108,21 @@ Received the award for Exceptional Performance for the development of the Proble
 {{% /dd %}}
 
 
-## Hobbies/Interests
-I have interests...
+## Areas of Interest
+* Robotics
+* Hockey
+* Scuba Diving
 
 {{% printonly %}}
 ##   Contact
+19725 Crystal Hills Dr.  
+Porter Ranch, CA 91326  
+phone:    805.341.0832  
+
 email:    [beasley.doug@gmail.com] (mailto:beasley.doug@gmail.com)  
 github:   [http://github.com/dougbeasley](http://github.com/dougbeasley)
 linkedin: [http://linkedin.com/in/douglascbeasley](http://linkedin.com/in/douglascbeasley)
+
 {{% /printonly %}}
 
 {{% /column %}}

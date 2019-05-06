@@ -16,8 +16,8 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 #### Principal Software Engineer at Red Ventures
 ###### Pasadena, CA [November 2016 - Present]
 
-- Architected the Bedrock micro-sevice platform to service the ThePointsGuy mobile application, Bankrate authenticated experience and other Red Ventures properties
-- Reauthored the reward calculation algorithm reducing cyclomatic complexity from 214 to 10
+- Architected the Bedrock micro-sevice platform to service the ThePointsGuy mobile application and the Bankrate authenticated experience while approaching 1M users
+- Reauthored the reward calculation algorithm reducing cyclomatic complexity from 214 to 10 and increased performance by an order of magnitude
 - Containerized legacy applications, modernized test suites and applied CI/CD systems for ECS deployments
 - Authored the functional test suite with fixture generation using Spring Shell to support a comprehensive testing framework for QA
 - Worked closely with data engineering and data science teams to provide meaningful insights for machine learning and business intelligence
