@@ -1,29 +1,11 @@
 - name: California Lutheran University
-  dates: 2007
+  dates: Graduated 2007
   qualification: BS Computer Science
-  quote: >
-    Thousand Oaks, CA
 
 
 - name: Learning Tree International
-  dates: 2010
-  qualification: Qualifications (eg. BA Performing Arts)
+  dates: 2004 - 2010
   description: | # this will include new lines to allow paragraphs
-    Received the award for Exceptional Performance for the development of the Equipment Management Application. The application was critical in coordinating the effort of a 4 to 6 inch substrate conversion on the factory floor. The application also provided enhanced user control of equipment configuration in the manufacturing execution system(MES).  This application was mentioned in the July 2010 issue of Compound Semiconductor, Back to GaAs Roots, pg. 30.
-
-- name: Learning Tree International
-  dates: 2004
-  qualification: Qualifications (eg. BA Performing Arts)
-  description: | # this will include new lines to allow paragraphs
-    Received the award for Exceptional Performance for the development of the Problem Lot Disposition System. The Problem Lot Disposition system is currently used in all front end manufacturing in plants including Newbury Park CA, Woburn MA and Mexicali Mexico.
-
-
-
-# Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    - Developing Enterprise Java Applications with Spring and Hibernate 9/24/2010
+    - Application Development and Tuning for Oracle Database 5/27/2005
+    - Backup, Recovery and Server Tuning for Oracle Databases 6/25/2004
