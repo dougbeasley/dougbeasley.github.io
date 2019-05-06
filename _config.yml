@@ -1,32 +1,30 @@
 # Site
-repository: sproogen/resume-theme
+repository: dougbeasley/dougbeasley.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Douglas C. Beasley
+title: Software Engineer
+email: beasley.doug@gmail.com
+website: dougbeasley.github.io
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  dougbeasley
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+linkedin_username: douglascbeasley
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: beasley.doug@gmail.com
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal service oriented applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  I've had the opportunity to work closely with data engineering and data science teams, and have a working knowledge of data pipelines, machine learning and big data.  I have a specific interest in high-performance, real-time applications and have authored production applications using functional reactive programming with Scala, Akka and Reactor.v
 
 # Projects Section
 # projects_title: Projects
@@ -40,11 +38,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Scuba Diving
+   - Ice Hockey
+   - Robotics
 
 # Footer
 footer_show_references: true
