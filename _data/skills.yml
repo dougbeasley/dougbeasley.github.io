@@ -1,6 +1,9 @@
 languages:
-  - Java, Scala, Groovy
-  - Javascript, TypeScript
+  - Java
+  - Scala
+  - Groovy
+  - Javascript
+  - TypeScript
 
 frameworks:
   - Spring, Spring Boot
@@ -9,10 +12,11 @@ frameworks:
 
 datastores:
   - Postgres, MySQL, Oracle
-  - MongoDB, DocumentDB
+  - MongoDB
   - Redis
   - Elastic Search
-  - Kinesis, Kafka
+  - Kinesis
+  - Kafka
   - Neo4J
 
 clouds:
