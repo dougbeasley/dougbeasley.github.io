@@ -22,4 +22,4 @@ datastores:
 clouds:
   - AWS 
   - GCP
-  - Terraform (and other Hashicorp products)
+  - Terraform
