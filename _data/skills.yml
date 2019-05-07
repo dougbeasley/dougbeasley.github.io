@@ -1,6 +1,6 @@
 languages:
   - Java, Scala, Groovy
-  - Javascript TypeScript
+  - Javascript, TypeScript
 
 frameworks:
   - Spring, Spring Boot
