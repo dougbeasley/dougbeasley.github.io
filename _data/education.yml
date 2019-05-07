@@ -4,7 +4,6 @@
 
 
 - name: Learning Tree International
-  dates: 2004 - 2010
   description: | # this will include new lines to allow paragraphs
     - Developing Enterprise Java Applications with Spring and Hibernate 9/24/2010
     - Application Development and Tuning for Oracle Database 5/27/2005
