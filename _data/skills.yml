@@ -4,6 +4,7 @@ languages:
   - Groovy
   - Javascript
   - TypeScript
+  - GoLang
 
 frameworks:
   - Spring, Spring Boot
