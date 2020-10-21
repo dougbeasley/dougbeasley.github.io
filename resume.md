@@ -1,6 +1,6 @@
 # Douglas C. Beasley
 
-19725 Crystal Hills Dr.  
+19009 Braemore Road  
 Porter Ranch, CA 91326  
 phone:    805.341.0832  
 
@@ -9,12 +9,21 @@ github:   http://github.com/dougbeasley
 linkedin: http://linkedin.com/in/douglascbeasley
 
 ## Summary
-I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal service oriented applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  I've had the opportunity to work closely with data engineering and data science teams, and have a working knowledge of data pipelines, machine learning and big data.  I have a specific interest in high-performance, real-time applications and have authored production applications using functional reactive programming with Scala, Akka and Reactor.
+I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal service oriented applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  I've had the opportunity to work closely with data engineering and data science teams, and have a working knowledge of data pipelines, machine learning and big data.  I have a specific interest in high-performance, real-time applications and have authored production applications using functional reactive programming with Scala, Akka and Reactor.  Some of my most recent work has been with Golang on Kubernetes leveraging Istio as a service mesh.
 
 ## Work Experience & Accomplishments
 
+#### Principal Software Engineer at Quibi
+###### Hollywood, CA [July 2019 - Present]
+
+- Supported backend API development in the "Search & Discover" team with Golang.
+- Supported continuous delivery with automated canary deployments with Spinnaker
+- Supported servive mesh archicture with Istio
+- Developed infrastruture autmoation with Terraform/Anthos Config Management
+- Developed Kubernetes automation with custom admissions controller webhooks and operators
+
 #### Principal Software Engineer at Red Ventures
-###### Pasadena, CA [November 2016 - Present]
+###### Pasadena, CA [November 2016 - July 2019]
 
 - Architected the Bedrock micro-sevice platform to service the ThePointsGuy mobile application and the Bankrate authenticated experience while approaching 1M users
 - Reauthored the reward calculation algorithm reducing cyclomatic complexity from 214 to 10 and increased performance by an order of magnitude
@@ -66,6 +75,7 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 
 ### Languages
 - Java, Scala, Groovy
+- Golang
 - Javascript TypeScript
 
 ### Frameworks
@@ -77,13 +87,13 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 - Postgres, MySQL, Oracle
 - MongoDB, DocumentDB
 - Redis
-- Elastic Search
+- Elasticsearch
 - Kinesis, Kafka
 - Neo4J
 
 ### Cloud and Platform
 - AWS 
-- GCP
+- GCP/GKE/Istio
 - Terraform (and other Hashicorp products)
 
 
