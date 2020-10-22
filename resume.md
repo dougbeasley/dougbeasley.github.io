@@ -18,9 +18,9 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 
 - Supported backend API development in the "Search & Discover" team with Golang.
 - Supported continuous delivery with automated canary deployments with Spinnaker
-- Supported servive mesh archicture with Istio
-- Developed infrastruture autmoation with Terraform/Anthos Config Management
-- Developed Kubernetes automation with custom admissions controller webhooks and operators
+- Supported service mesh archicture with Istio
+- Developed infrastruture automation with Terraform and Anthos Config Management
+- Developed Kubernetes automation with custom admissions controller webhooks and controllers
 
 #### Principal Software Engineer at Red Ventures
 ###### Pasadena, CA [November 2016 - July 2019]

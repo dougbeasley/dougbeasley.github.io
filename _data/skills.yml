@@ -4,7 +4,7 @@ languages:
   - Groovy
   - Javascript
   - TypeScript
-  - Go
+  - Golang
 
 frameworks:
   - Spring, Spring Boot
@@ -15,12 +15,12 @@ datastores:
   - Postgres, MySQL, Oracle
   - MongoDB
   - Redis
-  - Elastic Search
+  - Elasticsearch
   - Kinesis
   - Kafka
   - Neo4J
 
 clouds:
-  - AWS 
-  - GCP
+  - AWS
+  - GCP/GKE
   - Terraform
