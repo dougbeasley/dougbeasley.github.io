@@ -20,7 +20,7 @@ I am a resourceful and passionate software engineer of 16 years.  I have experie
 - Supported continuous delivery with automated canary deployments with Spinnaker
 - Supported service mesh archicture with Istio
 - Developed infrastruture automation with Terraform and Anthos Config Management
-- Developed Kubernetes automation with custom admissions controller webhooks and controllers
+- Developed Kubernetes automation with custom admission webhooks and controllers
 
 #### Principal Software Engineer at Red Ventures
 ###### Pasadena, CA [November 2016 - July 2019]
