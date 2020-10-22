@@ -7,7 +7,7 @@
     - Supported continuous delivery with automated canary deployments with Spinnaker
     - Supported service mesh archicture with Istio
     - Developed infrastruture automation with Terraform and Anthos Config Management
-    - Developed Kubernetes automation with custom admissions controller webhooks and operators
+    - Developed Kubernetes automation with custom admission webhooks and controllers
 
 - company: Red Ventures
   link: www.redventures.com
