@@ -1,7 +1,17 @@
+- company: Route
+  link: route.com
+  job_title: Principal Software Engineer
+  dates: December 2020 - Present
+  description: |
+    - Implemented the gRPC inter-service service communication paridigm
+    - Architected the product enrichment pipeline
+    - Evagelized the use of a Vector Database to support vector similarity search for product embeddings
+    - Reduced AWS KMS usaged cost by over 96%
+
 - company: Quibi
   link: quibi.com
   job_title: Principal Software Engineer
-  dates: July 2019 - Present
+  dates: July 2019 - December 2020
   description: |
     - Supported backend API development in the "Search & Discover" team with Golang.
     - Supported continuous delivery with automated canary deployments with Spinnaker
