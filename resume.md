@@ -9,12 +9,20 @@ github:   http://github.com/dougbeasley
 linkedin: http://linkedin.com/in/douglascbeasley
 
 ## Summary
-I am a resourceful and passionate software engineer of 16 years.  I have experience writing both public and internal service oriented applications and finding creative solutions to complex problems.  The majority of my experience is with Java and associated frameworks like Spring.  I've had the opportunity to work closely with data engineering and data science teams, and have a working knowledge of data pipelines, machine learning and big data.  I have a specific interest in high-performance, real-time applications and have authored production applications using functional reactive programming with Scala, Akka and Reactor.  Some of my most recent work has been with Golang on Kubernetes leveraging Istio as a service mesh.
+I am a resourceful and passionate software engineer of 20 years.  I have experience architecting both public and internal service oriented applications and finding creative solutions to complex problems.  My role has broadened over the years to include general infrastructure and cloud architecture.  I've had the opportunity to work closely with data engineering and data science teams, and have a working knowledge of data pipelines, machine learning and big data.  I have a specific interest in high-performance, real-time applications.  Some of my most recent work has been with Golang and Kubernetes.
 
 ## Work Experience & Accomplishments
 
+#### Principal Software Engineer at Route
+###### Los Angeles, CA [Dec 2020 - Present]
+
+- Implemented the gRPC inter-service service communication paridigm
+- Architected the product enrichment pipeline
+- Evagelized the use of a Vector Database to support vector similarity search for product embeddings
+- Reduced AWS KMS usaged cost by over 96%
+
 #### Principal Software Engineer at Quibi
-###### Hollywood, CA [July 2019 - Present]
+###### Hollywood, CA [July 2019 - Dec 2020]
 
 - Supported backend API development in the "Search & Discover" team with Golang.
 - Supported continuous delivery with automated canary deployments with Spinnaker
