@@ -1,10 +1,10 @@
 languages:
+  - Golang
   - Java
   - Scala
-  - Groovy
   - Javascript
   - TypeScript
-  - Golang
+  - Python
 
 frameworks:
   - Spring, Spring Boot
@@ -12,15 +12,14 @@ frameworks:
   - Angular
 
 datastores:
-  - Postgres, MySQL, Oracle
-  - MongoDB
-  - Redis
-  - Elasticsearch
-  - Kinesis
-  - Kafka
-  - Neo4J
+  - Relational
+  - NoSQL
+  - Key/Value
+  - Streaming/Message Broker
+  - Graph
+  - Specialty Index (TF-IDF, PQ, HNSW)
 
-clouds:
+cloud:
   - AWS
   - GCP/GKE
   - Terraform
