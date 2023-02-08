@@ -3,7 +3,7 @@
   job_title: Principal Software Engineer
   dates: December 2020 - Present
   description: |
-    - Implemented the gRPC inter-service service communication paridigm
+    - Implemented the gRPC inter-service service communication paradigm
     - Architected the product enrichment pipeline
     - Evagelized the use of a Vector Database to support vector similarity search for product embeddings
     - Reduced AWS KMS usaged cost by over 96%
