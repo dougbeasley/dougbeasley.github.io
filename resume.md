@@ -1,7 +1,6 @@
 # Douglas C. Beasley
 
-19009 Braemore Road  
-Porter Ranch, CA 91326  
+Porter Ranch, CA  
 phone:    805.341.0832  
 
 email:    beasley.doug@gmail.com  
