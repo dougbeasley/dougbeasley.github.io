@@ -24,7 +24,7 @@ linkedin_username: douglascbeasley
 # about_title: About Me
 about_profile_image: https://www.gravatar.com/avatar/2e1a230deb797cb971147a9ebcec4efc?size=200
 about_content: | # this will include new lines to allow paragraphs
-  I am a resourceful and passionate software engineer of 20 years. I have experience architecting both public and internal service oriented applications and finding creative solutions to complex problems. My role has broadened over the years to include general infrastructure and cloud architecture. I've had the opportunity to work closely with data engineering and data science teams, and have a working knowledge of data pipelines, machine learning and big data. I have a specific interest in high-performance, real-time applications. Some of my most recent work has been with Golang and Kubernetes.
+  I am a resourceful and passionate software engineer of 20 years. I have experience building both public and internal service oriented applications and finding creative solutions to complex problems. My role has broadened over the years to include general infrastructure and cloud architecture. I've had the opportunity to work closely with data engineering and data science teams, and have a working knowledge of data pipelines, machine learning and big data. I have a specific interest in high-performance, real-time applications. Some of my most recent work has been with Golang and Kubernetes.
 
 # Projects Section
 # projects_title: Projects
