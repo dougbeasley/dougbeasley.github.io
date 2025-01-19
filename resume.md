@@ -8,32 +8,32 @@ github:   http://github.com/dougbeasley
 linkedin: http://linkedin.com/in/douglascbeasley
 
 ## Summary
-I am a resourceful and passionate software engineer of 20 years.  I have experience architecting both public and internal service oriented applications and finding creative solutions to complex problems.  My role has broadened over the years to include general infrastructure and cloud architecture.  I've had the opportunity to work closely with data engineering and data science teams, and have a working knowledge of data pipelines, machine learning and big data.  I have a specific interest in high-performance, real-time applications.  Some of my most recent work has been with Golang and Kubernetes.
+I am a resourceful and passionate software engineer of 20 years.  I have experience building both public and internal service oriented applications and finding creative solutions to complex problems.  My role has broadened over the years to include general infrastructure and cloud architecture.  I've had the opportunity to work closely with data engineering and data science teams, and have a working knowledge of data pipelines, machine learning and big data.  I have a specific interest in high-performance, real-time applications.  Some of my most recent work has been with Golang and Kubernetes.
 
 ## Work Experience & Accomplishments
 
 #### Principal Software Engineer at Route
 ###### Los Angeles, CA [Dec 2020 - Present]
 
-- Implemented the gRPC inter-service service communication paridigm
+- Implemented the gRPC inter-service service communication paradigm
 - Architected the product enrichment pipeline
-- Evagelized the use of a Vector Database to support vector similarity search for product embeddings
-- Reduced AWS KMS usaged cost by over 96%
+- Evangelized the use of a Vector Database to support vector similarity search for product embeddings
+- Reduced AWS KMS usage cost by over 96%
 
 #### Principal Software Engineer at Quibi
 ###### Hollywood, CA [July 2019 - Dec 2020]
 
 - Supported backend API development in the "Search & Discover" team with Golang.
 - Supported continuous delivery with automated canary deployments with Spinnaker
-- Supported service mesh archicture with Istio
-- Developed infrastruture automation with Terraform and Anthos Config Management
+- Supported service mesh architecture with Istio
+- Developed infrastructure automation with Terraform and Anthos Config Management
 - Developed Kubernetes automation with custom admission webhooks and controllers
 
 #### Principal Software Engineer at Red Ventures
 ###### Pasadena, CA [November 2016 - July 2019]
 
-- Architected the Bedrock micro-sevice platform to service the ThePointsGuy mobile application and the Bankrate authenticated experience while approaching 1M users
-- Reauthored the reward calculation algorithm reducing cyclomatic complexity from 214 to 10 and increased performance by an order of magnitude
+- Architected the Bedrock microsevice platform to service the ThePointsGuy mobile application and the Bankrate authenticated experience while approaching 1M users
+- Re-authored the reward calculation algorithm reducing cyclomatic complexity from 214 to 10 and increased performance by an order of magnitude
 - Containerized legacy applications, modernized test suites and applied CI/CD systems for ECS deployments
 - Authored the functional test suite with fixture generation using Spring Shell to support a comprehensive testing framework for QA
 - Worked closely with data engineering and data science teams to provide meaningful insights for machine learning and business intelligence
@@ -59,13 +59,13 @@ I am a resourceful and passionate software engineer of 20 years.  I have experie
 - Hazelcast for caching and inter-node communication
 - Sole author of the Muncher platform
 - Muncher is responsible for handling and processing a syndicated Twitter firehose in conjunction with the Twitter public API.  Currently storing 25K tweets a day
-- Hazelcast for internode and interprocess communication allowing for long polling, data deduplication, and Nestivity platform synchronization.
+- Hazelcast for internode and inter-process communication allowing for long polling, data deduplication, and Nestivity platform synchronization.
 - Implemented an automated build and test workflow with Maven, Jetty and Jenkins.
 
 #### Senior Software Engineer at Passenger
 ###### Los Angeles, CA [June 2012 – March 2013 ]
 - Completed work on the first customer release of the Android mobile offering, supporting communication with the existing platform API.
-- Brought expertise in re-architecting the current platform.
+- Brought expertise in rebuilding the current platform.
 - Collaborated with development team members on the design and implementation to overhaul the current platform.
 - Supported existing maintenance efforts with the current platform.
 
